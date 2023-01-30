@@ -21,7 +21,7 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML
+- HTML e CSS
 - JavaScript
 - Git e GitHub
 - Tailwind CSS
